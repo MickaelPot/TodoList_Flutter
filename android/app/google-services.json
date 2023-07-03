@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "806191194387",
+    "project_id": "mickaelpottodoflutter",
+    "storage_bucket": "mickaelpottodoflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806191194387:android:395e15d87f6f4a7d43fae6",
+        "android_client_info": {
+          "package_name": "com.example.mickael_to_do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806191194387-n1rs8uup0hf6b7s0r4jhm9ind0oq0uoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy3nVNx061JQ4uNR75l4xugMkVnY0N2ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806191194387-n1rs8uup0hf6b7s0r4jhm9ind0oq0uoh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806191194387-t6n14c1j9f4fvpripku2sqldaphq154f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mickaelToDo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

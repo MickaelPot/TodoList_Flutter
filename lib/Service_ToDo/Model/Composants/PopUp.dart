@@ -74,7 +74,7 @@ class PopUp{
               child:Text("AJOUTER"),
               onPressed: (){
                 GererLesTaches.ajoutTacheBDD(context, idTodo, texte.text);
-                Navigator.of(context).pushNamed("/task", arguments: idTodo);
+                Navigator.of(context).pushNamed("/task");
               }
           ),
         ],
